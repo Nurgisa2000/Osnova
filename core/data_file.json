@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 76.95,
+        "lat": 43.25
+    },
+    "weather": [
+        {
+            "id": 761,
+            "main": "Dust",
+            "description": "пыльная буря",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 32.95,
+        "feels_like": 31.22,
+        "temp_min": 32.95,
+        "temp_max": 32.95,
+        "pressure": 1005,
+        "humidity": 24,
+        "sea_level": 1005,
+        "grnd_level": 882
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 9,
+        "deg": 290,
+        "gust": 14
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1719574142,
+    "sys": {
+        "type": 1,
+        "id": 8818,
+        "country": "KZ",
+        "sunrise": 1719530068,
+        "sunset": 1719585376
+    },
+    "timezone": 18000,
+    "id": 1526384,
+    "name": "Алматы",
+    "cod": 200
+}
